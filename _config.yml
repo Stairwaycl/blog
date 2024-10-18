@@ -30,8 +30,7 @@ twitter_username:
 github_username:  Stairwaycl
 
 # Permalink
-permalink: /:year/:month/:day/:title
-
+permalink: /:categories/:year/:month/:day/:title.html
 
 # Build settings
 theme: minima
