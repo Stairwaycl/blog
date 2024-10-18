@@ -36,7 +36,7 @@ Diseño web: Creamos diseños web atractivos y funcionales.
 
 Desarrollo web: Desarrollamos sitios web personalizados y responsivos.
 
-Contactofsfgsdf
+Contacto
 
 ¿Quieres saber más sobre nosotros o nuestros servicios? No dudes en contactarnos.
 
