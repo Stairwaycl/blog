@@ -15,7 +15,8 @@ gem "minima", "~> 2.5"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  #gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-feed', '~> 0.17.0' #A Jekyll plugin to generate an Atom feed of your Jekyll posts
+  gem 'jekyll-seo-tag', '~> 2.8' #A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
