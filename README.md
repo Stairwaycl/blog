@@ -1,9 +1,9 @@
 # Página oficial de Gatica & Mongelós SpA
 
-Recientemente fue abierto un blog oficial.
+### Nuevo
+Blog oficial.
 
-## A futuro
-Pronto:
+### Pronto
   - curso de git & github gratuito.
   - curso de jekyll
   - curso de diseño
