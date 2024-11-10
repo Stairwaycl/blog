@@ -30,7 +30,7 @@ social_links:
   website: https://www.tu-pagina-web.cl
   icon: /assets/minima-social-icons.svg
 # Permalink
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:title
 
 # Build settings
 theme: minima
@@ -38,7 +38,7 @@ plugins: [
 
 ]
 
-
+markdown: kramdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
