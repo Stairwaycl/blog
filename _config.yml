@@ -22,7 +22,7 @@ title: gymon blog_
 email: stairway.cl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Diseño y desarrollo web personalizado | Gatica y Mongelós SpA. Creamos soluciones innovadoras para empresas y emprendedores. ¡Descubre cómo podemos ayudarte a alcanzar tus objetivos en línea!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://stairwaycl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Stairwaycl
 
