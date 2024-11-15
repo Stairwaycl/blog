@@ -7,19 +7,19 @@ categories: blog
 
 A continuación, te presento un orden de escalado entre Gosu, Citrus Engine y Ruby 2D, desde el más simple hasta el más complejo:
 
-1. Ruby 2D:
+# 1. Ruby 2D:
 Nivel de complejidad: Bajo
 Características: Gráficos 2D, sonido, entrada de usuario
 Ideal para: Juegos simples, prototipos, proyectos educativos
 Documentación: Buenas documentación y ejemplos
 
-2. Gosu:
+# 2. Gosu:
 Nivel de complejidad: Medio
 Características: Gráficos 2D y 3D, sonido, entrada de usuario, soporte para múltiples plataformas
 Ideal para: Juegos 2D y 3D, proyectos más complejos
 Documentación: Excelente documentación y comunidad activa
 
-3. Citrus Engine:
+# 3. Citrus Engine:
 Nivel de complejidad: Alto
 Características: Motor de juego completo, gráficos 2D, sonido, física, animaciones
 Ideal para: Juegos complejos, proyectos de gran escala

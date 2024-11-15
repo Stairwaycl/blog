@@ -5,8 +5,8 @@ date:   2024-10-18
 categories: blog
 ---
 
-Solo escribe
+Solo escribe:
 
 alt + z
 
-esto activa y desactiva el word wrap
+Esto activa y desactiva el word wrap.
